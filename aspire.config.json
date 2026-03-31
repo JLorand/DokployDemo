@@ -1,0 +1,6 @@
+{
+  "appHost": {
+    "language": "csharp",
+    "path": "DokployDemo.AppHost/DokployDemo.AppHost.csproj"
+  }
+}

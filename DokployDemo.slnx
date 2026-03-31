@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DokployDemo.ApiService/DokployDemo.ApiService.csproj" />
+  <Project Path="DokployDemo.AppHost/DokployDemo.AppHost.csproj" />
+  <Project Path="DokployDemo.ServiceDefaults/DokployDemo.ServiceDefaults.csproj" />
+  <Project Path="DokployDemo.Web/DokployDemo.Web.csproj" />
+</Solution>
